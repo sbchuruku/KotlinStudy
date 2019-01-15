@@ -1,6 +1,6 @@
 package programmers.lv1
 
-class Solution {
+class Solution1 {
     fun solution(n: Int): Int {
         var answer = 0
 
